@@ -1,0 +1,85 @@
+body{
+    font-family: "Brush Script MT", "Brush Script Std", "Lucida Handwriting", cursive;
+    background-repeat: no-repeat;
+    background-image: url("sky.jpg");
+    background-size: cover;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header p{
+    color: white;
+    text-align: center;
+}
+
+
+nav{
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+
+a{
+    color: white;
+}
+
+nav ul{
+     position: absolute;
+     top: 20px;
+     right: 20px;
+     list-style-type: none;
+     
+}
+
+section{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+h2{
+    font-size: 25;
+    color: white
+}
+
+.profile{
+    width: 150px;
+    height: auto;
+}
+
+p{
+    font-size: 20px;
+    color: white;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td{
+    border: 1px solid white;
+}
+
+th{
+    background-color: white;
+}
+
+td ul{
+    font-size: 20px;
+    color: white;
+}
+
+th, td{
+    padding: 10px;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    padding: 15px;
+}

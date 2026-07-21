@@ -35,6 +35,10 @@ nav ul{
      
 }
 
+.profile{
+    border-radius:12px;
+}
+
 section{
     text-align: center;
     margin: 20px;

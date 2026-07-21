@@ -25,7 +25,7 @@ header p{
 
 
 nav{
-    padding: 10px;
+    padding: 20px;
     color: white;
     text-align: center;
 }
@@ -65,11 +65,13 @@ h2{
 p{
     font-size: 20px;
     color: white;
+    padding: 20px;
 }
 
 table{
     width: 100%;
-    border-collapse: collapse;
+    border-collapse: separate;
+    border-radius: 8px;
 }
 
 table, th, td{
@@ -86,7 +88,7 @@ td ul{
 }
 
 th, td{
-    padding: 10px;
+    padding: 20px;
 }
 
 footer{
